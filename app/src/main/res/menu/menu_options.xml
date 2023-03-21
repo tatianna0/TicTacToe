@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" >
+    <item
+        android:id="@+id/menu_exit"
+        app:showAsAction="always"
+        android:title="@string/exit" />
+    <item
+        android:id="@+id/menu_Level1"
+        android:title="@string/Level1" />
+    <item
+        android:id="@+id/menu_Level2"
+        android:title="@string/Level2" />
+    <item
+        android:id="@+id/menu_Level3"
+        android:title="@string/Level3" />
+</menu>

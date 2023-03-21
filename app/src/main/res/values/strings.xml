@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="prompt1">It\'s Android\'s turn.</string>
+    <string name="prompt2">It\'s your turn (X).</string>
+    <string name="prompt3">It\'s a tie!</string>
+    <string name="prompt4">You won!</string>
+    <string name="prompt5">Android won!</string>
+    <string name="prompt6">You go first.</string>
+    <string name="Android">Android win: </string>
+    <string name="you">you win: </string>
+    <string name="start">START A NEW GAME</string>
+    <string name="goTO">take photo</string>
+
+    <string name="difficulty">difficulty</string>
+    <string name="Level1">Easy</string>
+    <string name="Level2">Harder</string>
+    <string name="Level3">Expert</string>
+    <string name="exit">Exit</string>
+    <string name="return_to_main">Exit</string>
+
+</resources>

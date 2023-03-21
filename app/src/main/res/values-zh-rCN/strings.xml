@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TicTacToe</string>
+    <string name="prompt1" >轮到安卓啦.</string>
+    <string name="prompt2" >轮到你啦(X).</string>
+    <string name="prompt3" >是平局哦!</string>
+    <string name="prompt4" >你赢啦!</string>
+    <string name="prompt5" >安卓赢啦!</string>
+    <string name="prompt6" >你先下</string>
+    <string name="goTO">照相</string>
+
+    <string name="Android" >安卓赢了: </string>
+    <string name="you" >你赢了: </string>
+    <string name="start" >开始新的一局</string>
+    <string name="difficulty">难度</string>
+    <string name="Level1">简单</string>
+    <string name="Level2">困难</string>
+    <string name="Level3">专业</string>
+    <string name="exit">退出</string>
+    <string name="return_to_main">返回</string>
+</resources>
